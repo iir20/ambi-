@@ -1,0 +1,7 @@
+{
+  "name": "Ambi",
+  "description": "A next-generation multi-mode social platform for Gen-Z that prioritizes calm, intention, and identity flexibility over addiction and metrics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
